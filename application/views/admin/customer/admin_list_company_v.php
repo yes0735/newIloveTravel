@@ -2,7 +2,7 @@
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
           <h1 class="page-header">고객관리 > 업체관리</h1>
 
-          <h2 class="sub-header">Section title</h2>
+          <h2 class="sub-header">업체리스트</h2>
           <div class="table-responsive">
             <table class="table table-striped">
               <thead>
