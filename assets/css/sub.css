@@ -1,0 +1,22 @@
+.input_text50 { width : 50px; }
+.input_text80 { width : 80px; }
+.input_text100 { width : 100px; }
+.input_text120 { width : 120px; }
+.input_text150 { width : 150px; }
+.input_text200 { width : 200px; }
+.input_text200 { width : 200px; }
+.input_text200 { width : 200px; }
+.input_text200 { width : 200px; }
+
+/* inline style */
+.display_block { display : block; }
+.inline_block { display : inline-block !important; }
+
+.regist-table th { background-color : #f5f5f5 }
+
+blockquote {
+    padding: 3px 6px;
+    margin: 0 0 8px;
+    font-size: 12px;
+    border-left: 5px solid #eee;
+}

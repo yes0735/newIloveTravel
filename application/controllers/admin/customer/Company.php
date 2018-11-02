@@ -43,4 +43,13 @@ class Company extends CI_Controller {
 		$this->load->view('admin/customer/admin_list_company_v', $data);
 		
 	}
+
+	/*
+	* 등록 페이지
+	*/
+	public function regist($data = array())
+	{
+		$this->load->view('admin/customer/admin_regist_company_v', $data);
+		
+	}
 }
